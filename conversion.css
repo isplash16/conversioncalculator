@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css2?family=Bangers&family=Bebas+Neue&family=Black+Ops+One&family=Newsreader:opsz,wght@6..72,200&family=Oswald&family=Pacifico&family=Poppins:wght@800&family=Rubik&family=Tilt+Warp&family=VT323&display=swap");
+h1 {
+  font-family: "poppins";
+}
+button:disabled {
+  background: transparent !important;
+  color: white !important;
+}
+button {
+  font-family: "Oswald" !important;
+}
+input {
+  font-family: "poppins" !important;
+}
+body {
+  background-color: black !important;
+}
